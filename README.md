@@ -13,7 +13,7 @@
 - 🌐 **Frontend Development**: Hands-on experience with **Angular**, **React**, **HTML5**, **CSS3**, and **JavaScript**.
 - 📚 Passionate about continuous learning and developing scalable, high-performance applications.
 - 💡 I believe in **clean code** and **efficient software architecture**.
-- 📩 Feel free to contact me: **aviarukanton@mail.ru** | [Telegram](https://t.me/startan4ik) | [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%B0%D0%B2%D0%B5%D1%80%D1%83%D0%BA-21142a359/%D0%B0%D0%B2%D0%B5%D1%80%D1%83%D0%BA)
+- 📩 Feel free to contact me: **antonaviaruk@gmail.com** | [Telegram](https://t.me/startan4ik) | [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%B0%D0%B2%D0%B5%D1%80%D1%83%D0%BA-21142a359/%D0%B0%D0%B2%D0%B5%D1%80%D1%83%D0%BA)
 
 ---
 
