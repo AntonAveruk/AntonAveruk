@@ -68,12 +68,3 @@
 📧 **Email:** aviarukanton@mail.ru 
 📱 **Telegram:** [@Антон Аверук](https://t.me/startan4ik)  
 🔗 **LinkedIn:** [Anton Averuk](https://www.linkedin.com/in/%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%B0%D0%B2%D0%B5%D1%80%D1%83%D0%BA-21142a359/%D0%B0%D0%B2%D0%B5%D1%80%D1%83%D0%BA)
-
----
-
-### 🔥 My Projects:
-- **[Project Name 1](https://github.com/AntonAveruk/project1)**: Brief description of the project, technologies used, and purpose.
-- **[Project Name 2](https://github.com/AntonAveruk/project2)**: Brief description of the project, technologies used, and purpose.
-- **[Project Name 3](https://github.com/AntonAveruk/project3)**: Brief description of the project, technologies used, and purpose.
-
----
